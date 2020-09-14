@@ -12,16 +12,16 @@
     margin: 0 auto;
 }
   
-  button, input[type="text"] {
+  .button, input[type="text"] {
     padding: 5px;
   }
   
   
-  button {
+  .button {
     transition-duration: 0.4s;
   }
   
-  button:hover {
+  .button:hover {
     background-color: #4CAF50; /* Green */
     color: white;
   }f
